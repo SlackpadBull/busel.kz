@@ -82,7 +82,7 @@ textarea {
     font-size: 12px;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 0.09em;
+    letter-spacing: 0.06em;
 }
 
 h1,
@@ -96,7 +96,7 @@ h1 {
     margin-bottom: 28px;
     font-size: clamp(46px, 5.1vw, 76px);
     line-height: 0.98;
-    letter-spacing: -0.055em;
+    letter-spacing: -0.035em;
 }
 
 .hero-text {
@@ -343,7 +343,7 @@ h1 {
     margin-bottom: 30px;
     font-size: clamp(42px, 6vw, 76px);
     line-height: 1;
-    letter-spacing: -0.05em;
+    letter-spacing: -0.04em;
 }
 
 .statement h2 span {
@@ -380,7 +380,7 @@ h1 {
     margin: 0;
     font-size: clamp(38px, 5vw, 62px);
     line-height: 1.02;
-    letter-spacing: -0.05em;
+    letter-spacing: -0.04em;
 }
 
 .section-heading>p {
@@ -1397,7 +1397,7 @@ body {
     margin-bottom: 8px;
     font-size: clamp(42px, 6vw, 54px);
     line-height: 1;
-    letter-spacing: -0.05em;
+    letter-spacing: -0.04em;
 }
 
 .statement-partners-inner {
@@ -1799,7 +1799,7 @@ body {
 
     line-height: 0.95;
 
-    letter-spacing: -0.05em;
+    letter-spacing: -0.04em;
 }
 
 .product-copy p {
